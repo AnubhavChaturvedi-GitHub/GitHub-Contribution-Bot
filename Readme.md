@@ -2,6 +2,8 @@
 
 A powerful and straightforward bot to create GitHub commits on any past date. Whether you're looking to fill up your contribution graph, create interesting patterns, or experiment with your contribution history, this bot has got you covered.
 
+![Download   Install (5)](https://github.com/user-attachments/assets/f8cb20ec-6e6b-4163-b26c-53e08ce49821)
+
 ## Features
 
 - **Backdated Commits**: Easily make commits on any past date.
